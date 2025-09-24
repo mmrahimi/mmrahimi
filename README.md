@@ -12,15 +12,15 @@
 
 ## 🙋 About Me
 
-Backend developer passionate about building reliable, maintainable web apps. I love working with PHP and Laravel, structuring databases, and turning complex logic into clean solutions.
+Backend developer passionate about building reliable web apps. I love working with PHP and Laravel, solving difficult programming problems, and turning complex logic into elegant, scalable solutions.
 
 ---
 
 ## 📚 Interested In
 
 * Designing scalable backend systems ⚙️
-* Improving database performance & queries 📊
-* Exploring clean code & best practices 📖
+* Tackling modern challenges with innovative approaches ⚡
+* Building with proven backend best practices 📖
 
 ---
 
