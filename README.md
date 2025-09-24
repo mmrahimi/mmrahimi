@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=php,laravel,mysql,git,linux&theme=dark" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=php,laravel,mysql,git,&theme=dark" />
   </a>
 </p>
 
@@ -36,7 +36,3 @@ Backend developer passionate about building reliable, maintainable web apps. I l
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmrahimi&color=blue" alt="Profile Views" />
-</p>
