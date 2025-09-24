@@ -1,41 +1,42 @@
-# Hi, I'm Mohammad Mahdi Rahimi 👋
+# 👋 Hi, I'm Mohammad Mahdi Rahimi
 
-**Full‑stack web developer** — PHP / Laravel / JavaScript — building clean, maintainable e‑commerce apps.
+## 💻 Skills
+
+<p align="center">
+  <a href="#">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=php,laravel,mysql,git,linux&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 🙋 About Me
+
+Backend developer passionate about building reliable, maintainable web apps. I love working with PHP and Laravel, structuring databases, and turning complex logic into clean solutions.
 
 ---
 
-## About
+## 📚 Interested In
 
-I'm focused on building reliable, maintainable web apps (e-commerce, payment systems). I enjoy solving backend logic and shipping usable UI. I'm steadily improving my skills and open to collaboration or mentoring opportunities.
-
-## Skills
-
-* **Languages:** PHP, JavaScript, SQL, HTML, CSS
-* **Frameworks & Tools:** Laravel, Composer, NPM, Git, (basic React/Vue)
-* **Databases:** MySQL / MariaDB
-* **Other:** REST APIs, unit testing, deployment basics
-
-## Selected projects
-
-* **E‑Commerce Product Page** — dynamic product details, cart & checkout (link to repo).
-* **School Payments System** — transactions-focused debt/payment tracking (link to repo).
-
-> Add links to the actual repos and short screenshots under each project.
-
-## How to run (example — Laravel project)
-
-```bash
-cp .env.example .env
-composer install
-php artisan key:generate
-php artisan migrate --seed
-npm install
-npm run dev
-```
-
-## Contact
-
-* Email: `your.email@example.com`
-* GitHub: `https://github.com/<your-username>`
+* Designing scalable backend systems ⚙️
+* Improving database performance & queries 📊
+* Exploring clean code & best practices 📖
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmrahimi&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmrahimi&theme=dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahimi&layout=compact&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmrahimi&color=blue" alt="Profile Views" />
+</p>
