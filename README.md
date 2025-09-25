@@ -15,9 +15,9 @@ Backend developer passionate about building reliable web apps. I love working wi
 ---
 
 ## 📚 Interested In
-- Designing scalable backend systems ⚙️  
-- Tackling modern challenges with innovative approaches ⚡  
-- Building with proven backend best practices 📖  
+- Building robust backend systems ⚙️
+- Tackling modern challenges with innovative approaches ⚡
+- Implementing proven backend best practices 📖
 
 ---
 
