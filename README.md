@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Mohammad Mahdi Rahimi
 
 ## 🙋 About Me
-Backend developer passionate about building reliable web apps. I love working with PHP and Laravel, solving difficult programming problems, and turning complex logic into elegant, scalable solutions.
+A Junior Backend Developer with 1+ year of coding experience, focused on PHP and Laravel.
+Always looking for growth and change!
 
 ---
 
@@ -15,19 +16,19 @@ Backend developer passionate about building reliable web apps. I love working wi
 ---
 
 ## 📚 Interested In
-- Developing robust backend systems ⚙️
-- Tackling modern challenges with innovative approaches ⚡
-- Implementing proven backend best practices 📖
+- Building backend systems that can actually handle real-world complexity ⚙️
+- Breaking down difficult problems and finding clean, practical solutions ⚡
+- Learning by building, experimenting, and pushing my technical limits 📖
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmrahimi&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mmrahimi&show_icons=true&theme=dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmrahimi&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mmrahimi&layout=compact&theme=dark" />
 </p>
 
 ---
