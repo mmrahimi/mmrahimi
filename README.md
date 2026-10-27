@@ -24,11 +24,11 @@ Always looking for growth and change!
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mmrahimi&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mmrahimi&show_icons=true&theme=dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mmrahimi&layout=compact&theme=dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mmrahimi&layout=compact&theme=dark" />
 </p>
 
 ---
