@@ -9,7 +9,7 @@ Always looking for growth and change!
 ## 💻 Skills
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git&theme=dark&perline=4" width="250"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker,git,githubactions&theme=dark&perline=4" width="350"/>
   </a>
 </p>
 
